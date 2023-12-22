@@ -2,6 +2,6 @@
 
 /Libs to install: 
   
-  pip install playsound==1.2.2
-  pip install PyAudio or pipwin install PyAudio(to windowns)
-  pip install SpeechRecognition
+  pip install playsound==1.2.2 PyAudio SpeechRecognition 
+
+  (pipwin install PyAudio(to windowns))
