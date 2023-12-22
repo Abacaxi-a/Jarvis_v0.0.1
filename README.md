@@ -1,4 +1,4 @@
-# Jarvis_v0.0.1
+# Jarvis_v0.0.1(will need python 3.11 or less) 
 
 /Libs to install: 
   
